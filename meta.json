@@ -1,7 +1,7 @@
 [
     {
         "ident": "mjolnir_mod_updates",
-        "hash": "4df93187e0c20d0fce0d3b0c484a8ae5f8164e72db5bf3084ac8fce4aebd7c02",
+        "version": "1.5.2",
         "patchnotes_url": "https://modworkshop.net/mod/37556#changelog",
         "download_url": "https://github.com/Vanjordy/Payday-2-Mjolnir/blob/main/Thors_Hammer_1.5.2.zip?raw=true"
     }
